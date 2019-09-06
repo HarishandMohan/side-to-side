@@ -1,7 +1,8 @@
 # Side To Side
 A Lane Switching game programmed on C++ which is completely dependent on Graphics.H Header File
 
-Use Turbo C++ 4.0 to run the game.
+This Game was written and compiled in a 16 bit compiler (Turbo C++). Therefore, it can't run on a 32/64 bit OS.<br>
+Use Turbo C++ or an Emulator to run the game.
 
 ## Screenshots
 
